@@ -17,6 +17,7 @@
     --md-accent-fg-color:         #f2a8ff;
 }
 
+
 .md-sidebar__scrollwrap:focus-within, .md-sidebar__scrollwrap:hover {
     scrollbar-color: var(--md-default-fg-color--lighter) #0000;
 }
