@@ -5,7 +5,7 @@
   </picture>
 </div>
 
-<h3 align="center">Synthesize data for AI and add feedback on the fly!</h3>
+<h3 align="center">Synthesize data for AI and add feedback on the fly! </h3>
 
 <p align="center">
   <a  href="https://pypi.org/project/distilabel/">
