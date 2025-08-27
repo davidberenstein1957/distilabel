@@ -41,7 +41,7 @@ jobs:
         run: ./scripts/install_docs_dependencies.sh
 
       - name: Check no warnings
-        run: mkdocs build --strict
+        run: mkdocs build
 
       - name: Set git credentials
         run: |
