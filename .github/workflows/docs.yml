@@ -40,7 +40,7 @@ jobs:
         if: steps.cache.outputs.cache-hit != 'true'
         run: ./scripts/install_docs_dependencies.sh
 
-      - name: Check no warnings
+      - name: Build documentation
         run: mkdocs build
 
       - name: Set git credentials
