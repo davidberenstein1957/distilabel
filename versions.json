@@ -328,6 +328,13 @@
     }
   },
   {
+    "version": "develop",
+    "title": "develop",
+    "aliases": [
+      "latest"
+    ]
+  },
+  {
     "version": "dev",
     "title": "dev",
     "aliases": []
@@ -335,9 +342,7 @@
   {
     "version": "1.5.3",
     "title": "1.5.3",
-    "aliases": [
-      "latest"
-    ]
+    "aliases": []
   },
   {
     "version": "1.5.2",
